@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-23T16:36:29-05:00</updated><id>http://localhost:4000//</id><title type="html">YongHui Cho’s Blog</title><subtitle>This is my blog for projects and resume feel free to contact me anytime!
+</subtitle><entry><title type="html">Hello Github pages!</title><link href="http://localhost:4000/jekyll/update/2017/01/23/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Hello Github pages!" /><published>2017-01-23T16:11:59-05:00</published><updated>2017-01-23T16:11:59-05:00</updated><id>http://localhost:4000/jekyll/update/2017/01/23/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/01/23/welcome-to-jekyll.html">&lt;p&gt;Hello github pages!&lt;br /&gt;
+This is my first post for my github page.&lt;br /&gt;
+Wait for more things to come!&lt;/p&gt;</content><summary type="html">Hello github pages!
+This is my first post for my github page.
+Wait for more things to come!</summary></entry></feed>
