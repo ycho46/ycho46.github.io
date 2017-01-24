@@ -16,7 +16,7 @@
 title: YongHui Cho's Blog
 email: adnapz46@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my blog for projects and resume feel free to contact me anytime!
+  Checkout my projects on my repository. Also checkout my resume and feel free to contact me anytime!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
